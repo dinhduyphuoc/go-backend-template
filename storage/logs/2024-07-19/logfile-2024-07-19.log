@@ -1,0 +1,2 @@
+{"level":"INFO","ts":"2024-07-19T14:14:17.525+0700","caller":"initialize/logger.go:18","msg":"Logger initialized successfully","level":"debug"}
+{"level":"INFO","ts":"2024-07-19T14:14:17.525+0700","caller":"initialize/run.go:17","msg":"Server is running.","port":8082}
